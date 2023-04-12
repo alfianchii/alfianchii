@@ -7,7 +7,7 @@
 </p>
 
 <a href="https://github.com/alfianchii">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfianchii&count_private=true&show_icons=true&theme=tokyo-night" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfianchii&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/alfianchii">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianchii&layout=compact&theme=chartreuse-dark&langs_count=8" />
