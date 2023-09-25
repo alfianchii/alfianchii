@@ -1,5 +1,3 @@
-[![@alfianchii's Holopin board](https://holopin.me/alfianchii)](https://holopin.io/@alfianchii)
-
 <p align="center">
   <a href="https://twitter.com/alfianchii">
     <img src="https://img.shields.io/twitter/follow/alfianchii?style=for-the-badge&label=%40alfianchii&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
@@ -13,6 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfianchii&layout=compact&theme=tokyonight&langs_count=8" />
 </a>
 
+[![@alfianchii's Holopin board](https://holopin.me/alfianchii)](https://holopin.io/@alfianchii)
 <!--
 **alfianchii/alfianchii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
